@@ -3,7 +3,7 @@ public class Act2 {
 
         int quantity = 3;
         double unitPrice = 25.50;
-        String storeName = "Esmeringhoy Store";
+        String storeName = "SMeringhoy Store";
 
         double totalCost = quantity * unitPrice;
 
